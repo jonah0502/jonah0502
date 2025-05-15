@@ -3,4 +3,4 @@ I am a Software Engineer 👨‍💻 with diverse experience building impactful 
 Languages: Python, JavaScript/TypeScript, Java, C++, SQL
 Frameworks & Technologies: Django, AWS, Azure, Docker/Kubernetes, Git, React.js, Angular
 
-Feel free to check out my projects and learn more on my portfolio website (https://www.jonahportfolio.com/), GitHub (https://github.com/jonah0502), and connect with me on LinkedIn (linkedin.com/in/jonah-biedermann/)! 🚀
+Feel free to check out my projects and learn more on my portfolio website (https://www.jonahportfolio.com/), GitHub (https://github.com/jonah0502), and connect with me on LinkedIn (https://linkedin.com/in/jonah-biedermann/)! 🚀
